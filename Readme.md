@@ -14,5 +14,5 @@ feel free to file an issue.
 PRs are welcome. You can re-generate the output using:
 
 ```
-scribble --dest docs cheatsheet.scrbl
+scribble --dest docs index.scrbl
 ```
